@@ -13,6 +13,7 @@ This repository has multiple branches that relate to Fedora versions.
 |master |latest        |latest          |
 |rawhide|rawhide       |rawhide         |
 |30     |30            |30              |
+|31     |31            |31              |
 
 Pull strategy
 -------------
@@ -27,5 +28,5 @@ docker run \
   --tty \
   --privileged \
   --volume /sys/fs/cgroup:/sys/fs/cgroup:ro \
-  robertdebock/docker-fedora-systemd
+  robertdebock/fedora:30
 ```
