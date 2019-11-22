@@ -1,4 +1,4 @@
-FROM fedora:latest
+FROM fedora
 LABEL maintainer="Robert de Bock"
 ENV container=docker
 
