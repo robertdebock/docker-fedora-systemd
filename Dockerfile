@@ -1,5 +1,7 @@
 FROM fedora:30
-LABEL maintainer="Robert de Bock"
+
+LABEL maintainer="Robert de Bock <robert@meinit.nl>"
+
 ENV container=docker
 
 # Enable systemd.
