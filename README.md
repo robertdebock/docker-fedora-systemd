@@ -3,6 +3,8 @@ Docker Fedora Systemd
 
 This Dockerfile can build containers capable to use systemd.
 
+[![fedora build status](https://img.shields.io/docker/cloud/build/robertdebock/fedora.svg)](https://hub.docker.com/repository/docker/robertdebock/fedora)
+
 Branches
 --------
 
