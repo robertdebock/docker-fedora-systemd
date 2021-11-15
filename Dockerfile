@@ -1,4 +1,4 @@
-FROM fedora:rawhide
+FROM fedora:34
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
 LABEL build_date="2021-11-15"
