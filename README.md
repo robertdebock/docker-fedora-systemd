@@ -12,10 +12,10 @@ This repository has multiple branches that relate to Fedora versions.
 
 |Branch |Fedora Version|Docker image tag|
 |-------|--------------|----------------|
-|32     |32            |32              |
 |33     |33            |33              |
-|master |latest (33)   |latest          |
-|rawhide|rawhide (34)  |rawhide         |
+|34     |34            |34              |
+|master |latest (35)   |latest          |
+|rawhide|rawhide (36)  |rawhide         |
 
 Pull strategy
 -------------
