@@ -24,7 +24,7 @@ The different branches are **not** merged, they live as individual branches.
 Manually starting
 -----------------
 
-```
+```shell
 docker run \
   --tty \
   --privileged \
