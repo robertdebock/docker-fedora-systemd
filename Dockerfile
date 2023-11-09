@@ -1,7 +1,7 @@
-FROM fedora:38
+FROM fedora:39
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
-LABEL build_date="2023-06-13"
+LABEL build_date="2023-11-09"
 
 ENV container=docker
 
