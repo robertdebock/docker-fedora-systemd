@@ -1,4 +1,4 @@
-FROM fedora:40
+FROM fedora:39
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
 LABEL build_date="2024-04-24"
