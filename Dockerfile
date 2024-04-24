@@ -1,7 +1,7 @@
 FROM fedora:rawhide
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
-LABEL build_date="2023-11-09"
+LABEL build_date="2025-04-24"
 
 ENV container=docker
 
